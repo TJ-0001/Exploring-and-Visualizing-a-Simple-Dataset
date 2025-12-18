@@ -3,10 +3,11 @@
 ## Objective
 The objective of this task is to load the Iris dataset and perform basic data exploration and visualization to understand the distribution of features and differences between Iris species.
 
-## Dataset Used
+## Dataset
 
-* Dataset: Iris.csv
-* Features included:
+- **Name:**: Iris Species
+- **Source:** [Kaggle](https://www.kaggle.com)
+- **Features (5 columns):**
   * SepalLengthCm
   * SepalWidthCm
   * PetalLengthCm
